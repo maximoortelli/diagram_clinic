@@ -97,7 +97,7 @@ Make sure you have PostgreSQL installed and configured on your machine before ru
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **User Authentication**
+- [x] **User Authentication**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
