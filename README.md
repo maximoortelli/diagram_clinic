@@ -86,7 +86,7 @@ Make sure you have PostgreSQL installed and configured on your machine before ru
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Claudia Rojas**
+👤 **Maximo Ortelli**
 
 -   GitHub: [@githubhandle](https://github.com/maximoortelli)
 -   LinkedIn: [LinkedIn](https://www.linkedin.com/in/maximo-ortelli-rueda/)
